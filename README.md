@@ -28,7 +28,6 @@
 ### Lampung
 ### Dengan menggunakan notasi here document (<@@@ …@@@)
 ![Screenshot 2024-09-18 214033](https://github.com/user-attachments/assets/caa9e6cc-0ab6-4a5c-ad04-3ddc10967344)
-![Screenshot 2024-09-18 215139](https://github.com/user-attachments/assets/1ad2aef6-5553-4ed3-b74f-58c371e26be8)
 ini adalah hasil setelah diurutkan :
 ![Screenshot 2024-09-18 214042](https://github.com/user-attachments/assets/5ffd16bd-1cff-46e8-b99d-71840a0a24ed)
 
