@@ -1,5 +1,4 @@
 # Praktikum-4-Sistem-Operasi
-Praktikum 4 Proses Input Output I/O
 
 ## 1. Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru.
 ![Screenshot 2024-09-18 212255](https://github.com/user-attachments/assets/b4bf464b-7dcc-4b73-b209-8a00087740a7)
