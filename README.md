@@ -30,6 +30,7 @@
 ![Screenshot 2024-09-18 214033](https://github.com/user-attachments/assets/caa9e6cc-0ab6-4a5c-ad04-3ddc10967344)
 
 ini adalah hasil setelah diurutkan :
+
 ![Screenshot 2024-09-18 214042](https://github.com/user-attachments/assets/5ffd16bd-1cff-46e8-b99d-71840a0a24ed)
 
 ## 7. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke file baru. 
